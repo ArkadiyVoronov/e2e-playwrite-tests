@@ -1,11 +1,3 @@
-
----
-
-## 🎭 2. Первый Workflow для Playwright: `.github/workflows/e2e.yml`
-
----
-
-yaml
 name: Playwright E2E Tests
 
 on:
