@@ -1,0 +1,9 @@
+{
+  "name": "e2e-playwright-tests",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.48.0"
+  }
+}
